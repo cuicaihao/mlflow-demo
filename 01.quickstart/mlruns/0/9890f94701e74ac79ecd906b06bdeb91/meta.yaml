@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caihaocui/Documents/github/mlflow-demo/quickstart/mlruns/0/9890f94701e74ac79ecd906b06bdeb91/artifacts
+end_time: 1585782560755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: 9890f94701e74ac79ecd906b06bdeb91
+run_uuid: 9890f94701e74ac79ecd906b06bdeb91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1585782560728
+status: 3
+tags: []
+user_id: caihaocui
